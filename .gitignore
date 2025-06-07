@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# OS junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+*.iml
+
+# Ignore Python virtual environments
+.venv/
+venv/
